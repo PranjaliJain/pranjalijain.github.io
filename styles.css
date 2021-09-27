@@ -34,11 +34,11 @@ td {
   padding: 10px;
 }
 
-.column.side {
+.column.left {
   width: 33%;
 }
 
-.column.middle {
+.column.right {
   width: 67%;
 }
 
