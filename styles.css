@@ -43,6 +43,25 @@ h2 {
   font-family: "Georgia",serif;
 }
 
+ul {
+  list-style: none;
+}
+
+li {
+  position: relative;
+  width: 99%;
+  margin-bottom: 0.3em;
+}
+
+li::before {
+  position: absolute;
+  display: inline-block;
+}
+
+li a {
+  display: inline-block;
+}
+
 li {
   display: inline-block;
 }
