@@ -32,6 +32,8 @@ concurrency level  |  requests completed with https | requests completed with ht
 256                |  20114                         | 216214 <br>
 512                |  17322                         | 217650 <br>
 
+As seen by this data, there is significant performance difference when requesting http and https, owing to the simplicity of http. 
+
 #### 4. How can github respond so quickly?
 Github pages publishes static websites, which decreases the response time of these webpages. This is because, a static website doesn't need to generate content in real time from a database stored in the server.
 
