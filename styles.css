@@ -38,13 +38,13 @@ img{
 
 h2 {
   text-align: left;
-  font-size: 1.5em;
+  font-size: 1.8em;
   margin-bottom: .3em;
   font-family: "Georgia",serif;
 }
 
 ul {
-  list-style: circle;
+  list-style-type: disc;
 }
 
 li {
