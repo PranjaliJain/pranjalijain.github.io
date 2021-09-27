@@ -1,20 +1,29 @@
 h1 {
   text-align: center;
-  font-size: 5em;
+  font-size: 2.5em;
+  margin-bottom: .3em;
+  font-family: "Georgia",serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.5em;
   margin-bottom: .3em;
   font-family: "Georgia",serif;
 }
 
 table {
-  margin: .3em;
+  margin: 1em;
   width: 290px;
 }
 
 th {
+  text-align: center;
   padding: .2em;
 }
 
 td {
+  text-align: center;
   padding-left: .5em;
   padding-right: .5em; 
 }
