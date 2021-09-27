@@ -33,12 +33,12 @@ td {
 
 .leftcolumn {   
   float: left;
-  width: 35%;
+  width: 65%;
 }
 
 .rightcolumn {
   float: left;
-  width: 65%;
+  width: 35%;
   padding-left: .3em;
 }
 
