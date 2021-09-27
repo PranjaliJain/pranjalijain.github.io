@@ -9,11 +9,11 @@
 }
 
 .left {
-  width: 40%;
+  width: 25%;
 }
 
 .right {
-  width: 60%;
+  width: 75%;
 }
 
 .row:after {
@@ -56,4 +56,9 @@ td {
   padding-right: .5em; 
 }
 
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
