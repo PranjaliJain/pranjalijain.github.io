@@ -1,3 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 h1 {
   text-align: center;
   font-size: 2.5em;
@@ -11,6 +36,13 @@ h2 {
   font-size: 1.5em;
   margin-bottom: .3em;
   font-family: "Georgia",serif;
+}
+
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
 }
 
 table {
@@ -30,33 +62,3 @@ td {
 }
 
 
-
-.leftcolumn {   
-  float: left;
-  width: 65%;
-}
-
-.rightcolumn {
-  float: left;
-  width: 35%;
-  padding-left: .3em;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-@media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn {   
-    width: 100%;
-    padding: 0;
-  }
-}
-
-ul {
-    display: table; 
-    margin: 0 auto;
-    text-align: left;
-}
