@@ -4,3 +4,17 @@ h1 {
   margin-bottom: .3em;
   font-family: "Georgia",serif;
 }
+
+table {
+  margin: .3em;
+  width: 290px;
+}
+
+th {
+  padding: .2em;
+}
+
+td {
+  padding-left: .5em;
+  padding-right: .5em; 
+}
