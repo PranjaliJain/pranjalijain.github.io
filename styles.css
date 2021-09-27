@@ -3,6 +3,7 @@ h1 {
   font-size: 2.5em;
   margin-bottom: .3em;
   font-family: "Georgia",serif;
+  background-color: #f1f1f1;
 }
 
 h2 {
@@ -26,4 +27,23 @@ td {
   text-align: center;
   padding-left: .5em;
   padding-right: .5em; 
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.column.side {
+  width: 33%;
+}
+
+.column.middle {
+  width: 67%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
