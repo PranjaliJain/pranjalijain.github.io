@@ -21,8 +21,6 @@ There are diminishing returns at higher concurrency levels, that is the number o
 ### 3 What’s the performance difference when requesting HTTP and HTTPS?
 Similar to question 1, the performance on requesting http for ab benchmark in 10 seconds is: 
 
-concurrency level  |  requests completed 
-
 concurrency level  |  requests completed with https | requests completed with http   <br>
 
 1                  |  570                           | 1290 <br> 
