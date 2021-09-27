@@ -2,7 +2,6 @@
 The performance on requesting https for ab benchmark in 10 seconds is: 
 
 concurrency level  |  requests completed <br>
-
 1                  |  570 <br>
 2                  |  1167 <br>
 4                  |  2359 <br>
@@ -22,7 +21,6 @@ There are diminishing returns at higher concurrency levels, that is the number o
 Similar to question 1, the performance on requesting http for ab benchmark in 10 seconds is: 
 
 concurrency level  |  requests completed with https | requests completed with http   <br>
-
 1                  |  570                           | 1290 <br> 
 2                  |  1167                          | 2631 <br>
 4                  |  2359                          | 5322  <br>
