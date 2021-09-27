@@ -29,17 +29,17 @@ td {
   padding-right: .5em; 
 }
 
-.column {
+
+
+.leftcolumn {   
   float: left;
-  padding: 10px;
+  width: 35%;
 }
 
-.column.left {
-  width: 33%;
-}
-
-.column.right {
-  width: 67%;
+.rightcolumn {
+  float: left;
+  width: 65%;
+  padding-left: .3em;
 }
 
 .row:after {
