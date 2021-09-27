@@ -22,13 +22,18 @@
   clear: both;
 }
 
-
 h1 {
   text-align: center;
   font-size: 2.5em;
   margin-bottom: .3em;
   font-family: "Georgia",serif;
   background-color: #f1f1f1;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2 {
@@ -38,7 +43,12 @@ h2 {
   font-family: "Georgia",serif;
 }
 
-
+h3 {
+  text-align: left;
+  font-size: 1em;
+  margin-bottom: .3em;
+  font-family: "Garamond",serif;
+}
 
 table {
   margin: 1em;
@@ -56,9 +66,5 @@ td {
   padding-right: .5em; 
 }
 
-img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
