@@ -68,7 +68,7 @@ li {
 
 h3 {
   text-align: left;
-  font-size: 1em;
+  font-size: 1.2em;
   margin-bottom: .3em;
   font-family: "Garamond",serif;
 }
@@ -81,6 +81,7 @@ table {
 th {
   font-family: "Georgia",serif;
   text-align: center;
+  font-size: 1.2em;
   padding: .2em;
   margin-bottom: 0.2em;
 }
