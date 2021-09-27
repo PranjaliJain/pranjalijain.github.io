@@ -43,8 +43,8 @@ h2 {
   font-family: "Georgia",serif;
 }
 
-a{
-float:right;
+li {
+  display: inline-block;
 }
 
 h3 {
