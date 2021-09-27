@@ -3,8 +3,7 @@ The performance on requesting https for ab benchmark in 10 seconds is:
 
 concurrency level  |  requests serviced
 
-1                  |  
-
+1                  |  67
 2                  |
 4                  |
 8                  |
