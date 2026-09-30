@@ -1,0 +1,112 @@
+- title: "Architecture for Energy Efficient Training using ZO Optimization"
+  authors: "Rhys Gretsch, Pranjali Jain, Naomi Rehman, Eliah Reeves, Yequan Zhao, Jonathan Balkind, Zheng Zhang, Timothy Sherwood."
+  category: "under_submission"
+  status: "Under submission"
+
+- title: "Matchmaker: Protocol Compatibility Checking for Heterogeneous SoCs"
+  authors: "Yeganeh Aghamohammadi, Wenxuan Xu, Pranjali Jain, Vishal Seenivasan, Yuchen He, Benjamin Asperheim, Zachary D. Sisco, Jonathan Balkind."
+  category: "under_submission"
+  status: "Under submission"
+
+- title: "Modeling PFAS Use in Integrated Circuits Fabrication"
+  authors: "Mariam Elgamal, Pranjali Jain, Abdulrahman Mahmoud, Timothy Sherwood, Gu-Yeon Wei, David Brooks, Gage Hills."
+  category: "under_submission"
+  status: "Under submission"
+
+- title: "Supporting Computer Architecture Ecological Impact Analysis"
+  authors: "Pranjali Jain, Zachary D. Sisco, Alex Bologna, Dingsheng Li, Jonathan Balkind, Timothy Sherwood."
+  category: "under_submission"
+  status: "Under submission"
+
+- title: "Quantifying the Computing Energy Efficiency Paradox"
+  authors: "Pranjali Jain, Jonathan Balkind, Timothy Sherwood."
+  category: "journal"
+  venue: "ACM SIGEnergy Energy Informatics Review, 2026. Presented at the Workshop on Sustainable Computer Systems (HotCarbon), 2026."
+  venue_highlights:
+    - "ACM SIGEnergy Energy Informatics Review"
+    - "Workshop on Sustainable Computer Systems (HotCarbon)"
+
+- title: "Tracing the Computer System Supply Chain"
+  authors: "Pranjali Jain, Pranav Gunhal, Jonathan Balkind, Timothy Sherwood."
+  category: "workshop"
+  venue: "Workshop on Ethical Systems and Architecture Design at Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026."
+  venue_highlights:
+    - "Workshop on Ethical Systems and Architecture Design"
+
+- title: "Metallic toxicity as a consideration for future computing paradigms"
+  authors: "Pranjali Jain, Alexander Bologna, Dingsheng Li, Timothy Sherwood."
+  category: "journal"
+  venue: "npj Unconventional Computing, 2026. Presented at the International Conference on Rebooting Computing (ICRC), 2025."
+  venue_highlights:
+    - "npj Unconventional Computing"
+    - "International Conference on Rebooting Computing (ICRC)"
+
+- title: "Learning Architectural Cache Simulator Behaviour"
+  authors: "Pranjali Jain, Meiru Han, Zhizhou Zhang, Brandon Lee, Jonathan Balkind."
+  category: "conference"
+  venue: "IEEE International Symposium on Workload Characterization (IISWC), 2025."
+  venue_highlights:
+    - "IEEE International Symposium on Workload Characterization (IISWC)"
+  note: "Best Paper Nominee; Distinguished Artifact Award."
+
+- title: "Leveraging Deep Learning for Architectural Cache Simulation"
+  authors: "Pranjali Jain, Meiru Han, Zhizhou Zhang, Brandon Lee, Jonathan Balkind."
+  category: "workshop"
+  venue: "Workshop on Modeling and Simulation of Systems and Applications (ModSim), 2025."
+  venue_highlights:
+    - "Workshop on Modeling and Simulation of Systems and Applications (ModSim)"
+
+- title: "Empowering E-Waste Recycling with Intelligent PCB Component Detection"
+  authors: "Pranjali Jain, Madison Long, Claire Pemberton*, Ivan Hernandez*, Mariana Rosillo*, Samantha West*, Jonathan Balkind, Timothy Sherwood."
+  category: "conference"
+  venue: "ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS), 2025."
+  venue_highlights:
+    - "ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)"
+
+- title: "Electronic Waste footprint of Computer Systems"
+  authors: "Pranjali Jain, Jonathan Balkind, Timothy Sherwood."
+  category: "workshop"
+  venue: "Workshop on Hot Topics in Ethical Computer Systems at Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2024."
+  venue_highlights:
+    - "Workshop on Hot Topics in Ethical Computer Systems"
+  paper_url: "https://drive.google.com/file/d/1YJMHEKqtjvjXhZ7gjj25aZjKvpgqHnpm/view?usp=drive_link"
+
+- title: "Toxicity versus Carbon Footprint of Computer Systems"
+  authors: "Pranjali Jain, Claire Pemberton*, Ivan Hernandez*, Mariana Rosillo*, Samantha West*, Jonathan Balkind, Timothy Sherwood."
+  category: "workshop"
+  venue: "Young Architect Workshop at Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2024."
+  venue_highlights:
+    - "Young Architect Workshop"
+  paper_url: "https://hotethics.github.io/papers/Jain_Hotethics24.pdf"
+
+- title: "HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy"
+  authors: "Sarabjeet Singh, Neelam Surana, Pranjali Jain, Joycee Mekie, Manu Awasthi."
+  category: "journal"
+  venue: "ACM Transactions on Architecture and Code Optimization (TACO), October 2021."
+  venue_highlights:
+    - "ACM Transactions on Architecture and Code Optimization (TACO)"
+  paper_url: "https://arxiv.org/pdf/2110.01208"
+
+- title: "PlantDoc: Dataset for Visual Plant Disease Detection"
+  authors: "Davinder Singh*, Naman Jain*, Pranjali Jain*, Pratik Kayal*, Sudhakar Kumawat, Nipun Batra."
+  category: "conference"
+  venue: "ACM India Joint International Conference on Data Science & Management of Data (CoDS-COMAD), 2020."
+  venue_highlights:
+    - "ACM India Joint International Conference on Data Science & Management of Data (CoDS-COMAD)"
+  paper_url: "https://arxiv.org/pdf/1911.10317"
+
+- title: "NLPExplorer: Exploring the Universe of NLP Papers"
+  authors: "Monarch Parmar*, Naman Jain*, Pranjali Jain*, Jayakrishna Sahit*, Soham Pachpande*, Shruti Singh, Mayank Singh."
+  category: "conference"
+  venue: "European Conference on Information Retrieval (ECIR), 2020."
+  venue_highlights:
+    - "European Conference on Information Retrieval (ECIR)"
+  paper_url: "https://arxiv.org/pdf/1910.07351"
+
+- title: "AgriBot: Agriculture-Specific Question Answer System"
+  authors: "Naman Jain*, Pranjali Jain*, Pratik Kayal*, Jayakrishna Sahit*, Soham Pachpande*, Jayesh Choudhary, Mayank Singh."
+  category: "conference"
+  venue: "14th International Conference on Science, Technology, Engineering and Management (ICSTEM), 2019."
+  venue_highlights:
+    - "14th International Conference on Science, Technology, Engineering and Management (ICSTEM)"
+  paper_url: "https://osf.io/preprints/indiarxiv/3qp98/download"

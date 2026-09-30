@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<section class="homepage-intro" aria-labelledby="homepage-title">
+  <div class="homepage-intro__inner">
+    <h1 id="homepage-title" class="sr-only">{{ page.title }}</h1>
+    {% include author-profile.html centered=true %}
+    <div class="homepage-intro__text">{{ page.intro | markdownify }}</div>
+  </div>
+</section>
+
+<div id="main" class="homepage-main" role="main">
+  <article class="page homepage-content" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="page__inner-wrap">
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+    </div>
+  </article>
+</div>
