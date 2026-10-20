@@ -1,22 +1,24 @@
-- title: "Early Research Scholars Program (ERSP) Mentor"
-  organization: "UCSB"
-  period: "September 2023 – July 2024"
+- title: UR2PhD Program Teaching Assistant
+  organization: Computing Research Association (CRA)
+  period: September 2024 – December 2024
+- title: Early Research Scholars Program (ERSP) Mentor
+  organization: UCSB
+  period: September 2023 – July 2024
   responsibilities:
-    - "Served as Technical Mentor for a team of 4 undergraduate students, guiding them in Computer Science research."
-    - "Mentored the team to design an object detection system to identify and count components on printed circuit boards and supported the delivery of a final poster presentation and workshop paper submission."
-
-- title: "Graduate Teaching Assistant"
-  organization: "UCSB"
-  period: "September 2021 – July 2024"
+  - Served as Technical Mentor for a team of 4 undergraduate students, guiding them in Computer Science research.
+  - Mentored the team to design an object detection system to identify and count components on printed circuit boards
+    and supported the delivery of a final poster presentation and workshop paper submission.
+- title: Graduate Teaching Assistant
+  organization: UCSB
+  period: September 2021 – September 2024
   courses:
-    - "CS 8: Introduction to Computer Science — Summer 2024"
-    - "CS 154: Computer Architecture — Spring 2022, Winter 2023, Spring 2023"
-    - "CS 64: Computer Organization and Logic Design — Fall 2022, Winter 2022, Spring 2024"
-    - "CS 170: Operating Systems — Fall 2021"
-    - "RMP: Research Mentorship Program — Summer 2024"
-
-- title: "Undergraduate Teaching Assistant"
-  organization: "IIT Gandhinagar"
-  period: "January 2019 – August 2020"
+  - 'CS 8: Introduction to Computer Science — Summer 2024'
+  - 'CS 154: Computer Architecture — Spring 2022, Winter 2023, Spring 2023'
+  - 'CS 64: Computer Organization and Logic Design — Winter 2022, Fall 2022, Spring 2024'
+  - 'CS 170: Operating Systems — Fall 2021'
+  - 'RMP: Research Mentorship Program — Summer 2024'
+- title: Undergraduate Teaching Assistant
+  organization: IIT Gandhinagar
+  period: January 2019 – August 2020
   courses:
-    - "ES 215: Computer Organisation and Architecture — Spring 2019, Spring 2020"
+  - 'ES 215: Computer Organisation and Architecture — Spring 2019, Spring 2020'

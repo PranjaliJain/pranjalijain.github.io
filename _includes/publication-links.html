@@ -1,8 +1,0 @@
-{% assign publication = include.publication %}
-{% if publication.paper_url or publication.slides_url or publication.video_url %}
-  <span class="publication-links">
-    {% if publication.paper_url %}<a href="{{ publication.paper_url }}" aria-label="Paper (PDF)" title="Paper"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i></a>{% endif %}
-    {% if publication.slides_url %}<a href="{{ publication.slides_url }}" aria-label="Slides" title="Slides"><i class="fa-solid fa-file-powerpoint" aria-hidden="true"></i></a>{% endif %}
-    {% if publication.video_url %}<a href="{{ publication.video_url }}" aria-label="Video" title="Video"><i class="fa-solid fa-circle-play" aria-hidden="true"></i></a>{% endif %}
-  </span>
-{% endif %}

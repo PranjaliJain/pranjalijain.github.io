@@ -1,86 +1,87 @@
-- title: "Graduate Research Assistant"
-  organization: "UCSB Archlab"
-  location: "CA"
-  period: "June 2023 – Present"
-  mentor: "Prof. Timothy Sherwood"
+- title: Graduate Research Assistant
+  organization: UCSB Archlab
+  location: CA
+  period: June 2023 – Present
+  mentor: Prof. Timothy Sherwood
   responsibilities:
-    - "Collaborated with interdisciplinary teams to execute research on sustainability impacts of computing systems."
-    - "Built computer architectural simulation frameworks utilizing state-of-the-art deep learning techniques."
-    - "Evaluated emerging technologies to substitute printed circuit boards enhancing performance and sustainability."
-
-- title: "Research Intern"
-  organization: "Microsoft"
-  location: "Redmond, WA"
-  period: "June 2026 – September 2026"
-  mentor: "Rob Chappell"
+  - Collaborated with interdisciplinary teams to execute research on computer architecture and sustainable computing.
+  - Built computer architectural simulation frameworks utilizing state-of-the-art deep learning techniques.
+  - Evaluated emerging technologies as system hardware alternatives to improve performance and sustainability.
+- title: Research Intern
+  organization: Microsoft
+  location: Redmond, WA
+  period: June 2026 – September 2026
+  mentor: Rob Chappell, Rodrigo Fonseca
   responsibilities:
-    - "Developed framework to characterize Azure’s server fleet across microarchitectures using CPU performance telemetry."
-    - "Evaluated representativeness of thousands of workloads across benchmark suites (SPEC CPU 2017/2026, DCPerf, DeathStarBench, SPEC HS) against real fleet behavior defining metrics for coverage and proximity."
-    - "Contributed to constructing synthetic benchmarks to represent fleet behaviors not covered by existing suites."
-
-- title: "Research Intern"
-  organization: "Microsoft"
-  location: "Redmond, WA"
-  period: "June 2025 – September 2025"
-  mentor: "Rob Chappell, Daniel Berger"
+  - Developed a framework to characterize Azure’s fleet across microarchitectures using CPU performance telemetry.
+  - Evaluated representativeness of thousands of workloads across benchmark suites (SPEC CPU 2017/2026, DCPerf,
+    DeathStarBench) against real fleet behavior, using coverage and proximity metrics.
+  - Contributed to constructing synthetic benchmarks to represent fleet behaviors not covered by existing suites.
+  mentor_label: Mentors
+- title: Research Intern
+  organization: Microsoft
+  location: Redmond, WA
+  period: June 2025 – September 2025
+  mentor: Rob Chappell, Daniel Berger
   responsibilities:
-    - "Designed Intel Core performance monitoring models for all microarchitecture generations present in the Azure fleet."
-    - "Deployed models with Azure Telemetry Framework and collected performance monitoring data from 3.2M+ nodes."
-    - "Built data analysis dashboard and clustering techniques to segment usage patterns of logical processors across nodes."
-    - "Created pipeline for workload characterization using performance monitoring telemetry from the Azure fleet."
-
-- title: "Central Mentor"
-  organization: "UCSB Early Research Scholars Program"
-  location: "CA"
-  period: "August 2024 – June 2025"
-  mentor: "Prof. Ziad Matni"
+  - Designed Intel Core performance monitoring models for all microarchitecture generations present in the Azure
+    fleet.
+  - Deployed models with Azure Telemetry Framework and collected performance monitoring data from 3.2M+ nodes.
+  - Developed data analysis methods and clustering techniques to characterize logical processor usage across nodes.
+  - Created a pipeline for workload characterization using performance monitoring telemetry from the Azure fleet.
+  mentor_label: Mentors
+- title: Central Mentor
+  organization: UCSB Early Research Scholars Program
+  location: CA
+  period: August 2024 – June 2025
+  mentor: Prof. Ziad Matni
   responsibilities:
-    - "Managed a diverse group of 39 students across 10 teams, facilitating their research development through 3 quarters."
-    - "Coordinated 10 year-long technical projects in collaboration with 18 faculty and graduate student mentors."
-    - "Supervised the Research Methods course and supported development of research proposals and poster presentations."
-
-- title: "Software Engineering Intern"
-  organization: "Qualcomm"
-  location: "Santa Clara, CA"
-  period: "June 2022 – September 2022"
-  mentor: "Neeraj Sharma"
+  - Managed a diverse group of 39 students across 10 teams, facilitating their research development over 3 quarters.
+  - Coordinated 10 year-long technical projects in collaboration with 18 faculty and graduate student mentors.
+  - Supervised the Research Methods course and supported development of research proposals and poster presentations.
+- title: Software Engineering Intern
+  organization: Qualcomm
+  location: Santa Clara, CA
+  period: June 2022 – September 2022
+  mentor: Neeraj Sharma
   responsibilities:
-    - "Designed and implemented automation framework for reliability testing of Qualcomm Wi-Fi chipset."
-    - "Designed the algorithm to enable standalone and reliability testing for 10+ scenarios, created a physical testbed setup, wrote 700+ lines of code in C# to run the algorithm using Qualcomm’s internal tools."
-
-- title: "Embedded Software Engineer"
-  organization: "Enphase Energy"
-  location: "Bangalore, India"
-  period: "August 2020 – February 2021"
-  mentor: "Sesha Narayanan"
+  - Developed an automated reliability testing framework for Qualcomm Wi-Fi chipsets using C# and internal tools.
+  - Designed testing algorithms for 10+ standalone and reliability scenarios and built a physical testbed to validate
+    chipset performance across diverse operating conditions.
+- title: Embedded Software Engineer
+  organization: Enphase Energy
+  location: Bangalore, India
+  period: August 2020 – February 2021
+  mentor: Sesha Narayanan
   responsibilities:
-    - "Devised new features and wrote 500+ lines of code in C++ for the Envoy platform in the micro-controller for solar energy monitoring, developed APIs to monitor the performance of Envoys."
-    - "Analyzed and remotely solved issues in the online platform or onsite installations of Enphase devices at 100+ sites."
-
-- title: "Undergraduate Research Assistant"
-  organization: "IIT Gandhinagar"
-  location: "India"
-  period: "August 2018 – August 2020"
-  mentor: "Prof. Joycee Mekie"
+  - Developed C++ features for the Envoy micro-controller platform and implemented APIs for real-time solar energy
+    and system performance monitoring.
+  - Analyzed and remotely solved issues in the online platform or onsite installations of Enphase devices at 100+
+    sites.
+- title: Undergraduate Research Assistant
+  organization: IIT Gandhinagar
+  location: India
+  period: August 2018 – August 2020
+  mentor: Prof. Joycee Mekie
   responsibilities:
-    - "Designed and simulated 10+ server system cache designs with SRAM cache cells of different cell latencies."
-    - "Devised 8 different last-level cache designs for mobile devices with conventional, NVM, and hybrid technologies."
-    - "Evaluated performance, density, and energy benefits of different cache designs for 25+ workloads."
-
-- title: "Research Intern"
-  organization: "SAFARI Group, ETH Zurich"
-  location: "Switzerland"
-  period: "May 2019 – December 2020"
-  mentor: "Prof. Onur Mutlu"
+  - Designed and simulated 10+ server system cache designs with SRAM cache cells of different cell latencies.
+  - Devised 8 different last-level cache designs for mobile devices with conventional, NVM, and hybrid technologies.
+  - Evaluated performance, density, and energy benefits of different cache designs for 25+ workloads.
+- title: Research Intern
+  organization: SAFARI Group, ETH Zurich
+  location: Switzerland
+  period: May 2019 – August 2019
+  mentor: Prof. Onur Mutlu
   responsibilities:
-    - "Collaborated with a team of four to design C/C++-based algorithms for Efficient Computation of GPU Primitives (5+ operations) leveraging Lightweight Compute Units in L2 cache."
-    - "Characterized 30+ primitive General-Purpose GPU applications to identify suitability for Processing-in-memory."
-
-- title: "Summer Research Intern"
-  organization: "IIT Gandhinagar"
-  location: "India"
-  period: "May 2018 – July 2018"
-  mentor: "Prof. Manu Awasthi"
+  - Collaborated with a team of four to design C/C++-based algorithms for Efficient Computation of GPU Primitives
+    (5+ operations) leveraging Lightweight Compute Units in L2 cache.
+  - Characterized 30+ primitive General-Purpose GPU applications to identify suitability for Processing-in-memory.
+- title: Summer Research Intern
+  organization: IIT Gandhinagar
+  location: India
+  period: May 2018 – July 2018
+  mentor: Prof. Manu Awasthi
   responsibilities:
-    - "Analyzed the impacts of changing 5+ timing parameters (e.g., read/write time) used to model DRAM-based volatile and STTRAM-based non-volatile memory systems using a C/C++-based main memory simulator ZSim-NVMain."
-    - "Developed comprehensive documentation and a portable Docker version of the simulator."
+  - Analyzed the impacts of changing 5+ timing parameters (e.g., read/write time) used to model DRAM-based volatile
+    and STTRAM-based non-volatile memory systems using a C/C++-based main memory simulator ZSim-NVMain.
+  - Developed comprehensive documentation and a portable Docker version of the simulator.

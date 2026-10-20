@@ -1,0 +1,34 @@
+- title: Greener Power Delivery for AI Datacenter Hardware
+  tools: C/C++, SystemVerilog
+  period: April 2026 – Present
+  advisor: Prof. Timothy Sherwood
+  collaboration: UC San Diego and Google
+  responsibilities:
+  - Investigated removal of bulk capacitors from power delivery networks in datacenter servers and SSDs to reduce
+    e-waste toxicity and board space overhead in AI accelerator infrastructure.
+  - Designed architectural mechanisms to tolerate voltage transients and power supply noise due to capacitor removal.
+- title: Sustainable End-of-Life Pathways for Computing Hardware
+  tools: Python
+  period: March 2026 – Present
+  advisor: Prof. Timothy Sherwood
+  responsibilities:
+  - Evaluated end-of-life pathways for computing devices spanning storage, refurbishment, recycling, and informal
+    disposal, to understand their carbon, toxicity, and material recovery outcomes.
+  - Analyzed personal computing devices and AI data center fleets to inform hardware retirement decisions.
+- title: AI-based Malware Detection using Heatmaps
+  tools: C/C++, Python
+  period: September 2024 – Present
+  advisor: Prof. Jonathan Balkind
+  responsibilities:
+  - Designed and simulated custom hardware using gem5 to generate modulo-memory access heatmaps on the fly.
+  - Developed AI-based dynamic malware detection system based on analyzing memory access patterns in real-time using
+    modulo-memory access heatmap classification methods leveraging deep learning techniques.
+- title: PFAS Toxicity in Computer Manufacturing
+  tools: Python
+  period: June 2024 – Present
+  advisor: Prof. Timothy Sherwood
+  collaboration: Harvard University
+  responsibilities:
+  - Conducted a comprehensive analysis to quantify the weight and toxicity impacts of per- and polyfluoroalkyl substances
+    (PFAS) or Forever Chemicals of interest used in semiconductor manufacturing.
+  - Investigated trade-offs between PFAS toxicity and carbon emissions associated with computer system manufacturing.

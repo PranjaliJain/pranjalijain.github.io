@@ -1,0 +1,17 @@
+{% for publication in site.data.publications %}
+{% unless publication.status %}
+  {% capture highlighted_author %}<strong class="publication-author-self">Pranjali Jain</strong>{% endcapture %}
+  {% assign authors_display = publication.authors | replace: "Pranjali Jain", highlighted_author %}
+  {% assign venue_display = publication.venue %}
+  {% for venue_highlight in publication.venue_highlights %}
+    {% capture highlighted_venue %}<strong class="publication-venue-highlight">{{ venue_highlight }}</strong>{% endcapture %}
+    {% assign venue_display = venue_display | replace: venue_highlight, highlighted_venue %}
+  {% endfor %}
+<article class="publication-entry">
+  <h3>{% if publication.paper_url %}<a href="{{ publication.paper_url }}">{{ publication.title }}</a>{% else %}{{ publication.title }}{% endif %}</h3>
+  <p class="publication-authors">{{ authors_display }}</p>
+  {% if publication.venue %}<p class="publication-venue">{{ venue_display }}</p>{% endif %}
+  {% if publication.note %}<p class="publication-note">{{ publication.note }}</p>{% endif %}
+</article>
+{% endunless %}
+{% endfor %}
