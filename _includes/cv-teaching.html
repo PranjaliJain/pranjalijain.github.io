@@ -1,19 +1,14 @@
-<div class="resume-timeline">
+<div class="resume-timeline teaching-timeline">
 {% for role in site.data.teaching %}
 <article class="resume-entry">
   <div class="resume-entry__heading">
-    <h3>{{ role.title }}</h3>
-    <span class="resume-entry__period">{{ role.period }}</span>
+    <h2>{{ role.title }}</h2>
   </div>
   <p class="resume-entry__meta"><strong>{{ role.organization }}</strong>{% if role.location %}, {{ role.location }}{% endif %}</p>
-  {% if role.responsibilities %}
-  <ul>
-    {% for responsibility in role.responsibilities %}<li>{{ responsibility }}</li>{% endfor %}
-  </ul>
-  {% endif %}
+  {% unless role.courses %}<p class="resume-entry__period">{{ role.period }}</p>{% endunless %}
   {% if role.courses %}
   <ul class="resume-entry__courses">
-    {% for course in role.courses %}<li>{{ course }}</li>{% endfor %}
+    {% for course in role.courses %}<li><span class="course-term">[{{ course.term }}]</span> <span>{{ course.title }}</span></li>{% endfor %}
   </ul>
   {% endif %}
 </article>

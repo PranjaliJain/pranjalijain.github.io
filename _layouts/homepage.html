@@ -1,21 +1,15 @@
 ---
 layout: default
 ---
-
-<section class="homepage-intro" aria-labelledby="homepage-title">
-  <div class="homepage-intro__inner">
-    <h1 id="homepage-title" class="sr-only">{{ page.title }}</h1>
-    {% include author-profile.html centered=true %}
-    <div class="homepage-intro__text">{{ page.intro | markdownify }}</div>
-  </div>
-</section>
-
-<div id="main" class="homepage-main" role="main">
-  <article class="page homepage-content" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="page__inner-wrap">
-      <section class="page__content" itemprop="text">
-        {{ content }}
-      </section>
+<main id="main" class="site-main about-page">
+  <section class="profile-intro" aria-labelledby="profile-name">
+    <div class="profile-intro__text">
+      <h1 id="profile-name">Pranjali Jain</h1>
+      <p class="profile-role">Ph.D. Student in Computer Science</p>
+      <p class="eyebrow">UC Santa Barbara</p>
+      {% include profile-links.html %}
     </div>
-  </article>
-</div>
+    <img class="profile-photo" src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="Pranjali Jain" width="180" height="180" />
+  </section>
+  <article class="about-copy page__content">{{ content }}</article>
+</main>

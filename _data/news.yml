@@ -1,39 +1,52 @@
 - date: '2026-06-01'
-  title: UCSB CS Outstanding PhD Student of the Year 2026, UCSB
+  title: Received the UCSB CS Outstanding PhD Student of the Year Award for 2026!
+  links:
+  - text: UCSB CS Outstanding PhD Student of the Year Award
+    url: https://www.cs.ucsb.edu/happenings/awards/2026-computer-science-department-and-campus-awards
 - date: '2025-10-01'
-  title: Distinguished Artifact Award, IISWC 2025
+  title: Received the Distinguished Artifact Award at IISWC 2025!
+  links:
+  - text: IISWC 2025
+    url: https://iiswc.org/iiswc2025/
 - date: '2025-10-01'
-  title: Best Paper Nomination, IISWC 2025
+  title: Our paper CacheBox was nominated for Best Paper at IISWC 2025!
+  links:
+  - text: CacheBox
+    url: https://drive.google.com/file/d/1QMMdbChb3J7OjXj-hKIi7d06znrXXkKN/view?usp=drive_link
+  - text: IISWC 2025
+    url: https://iiswc.org/iiswc2025/
 - date: '2025-09-01'
-  title: UCSB features my research in “ArchLab & Jain – NSF Award.”
-  url: https://www.ce.ucsb.edu/news/all/2025/archlab-jain-nsf-award
+  title: UCSB features my research on sustainable computer system design!
+  links:
+  - text: research
+    url: https://www.ce.ucsb.edu/news/all/2025/archlab-jain-nsf-award
 - date: '2025-06-01'
-  title: National Science Foundation (NSF) Research Grant for Sustainable Computer System Design
+  title: Our research received NSF support for sustainable computer system design!
+  links:
+  - text: NSF support
+    url: https://www.ce.ucsb.edu/news/all/2025/archlab-jain-nsf-award
 - date: '2025-05-01'
-  title: Featured in the UCSB Computer Engineering Ph.D. student spotlight.
-  url: https://www.ce.ucsb.edu/spotlights/pranjali-jain-phd-student-cs
+  title: I got featured in the UCSB ECE Ph.D. student spotlight!
+  links:
+  - text: Ph.D. student spotlight
+    url: https://www.ce.ucsb.edu/spotlights/pranjali-jain-phd-student-cs
 - date: '2025-01-01'
-  title: IBM PhD Fellowship 2024–2025 Awardee
+  title: Received the IBM PhD Fellowship for 2024–2025!
+  links:
+  - text: IBM PhD Fellowship
+    url: https://research.ibm.com/labs/yorktown-heights/ibm-academic-awards-program#previous-awardees
 - date: '2025-01-01'
-  title: Qualcomm Innovation Fellowship 2025 Finalist
+  title: Selected as a finalist for the Qualcomm Innovation Fellowship 2025!
+  links:
+  - text: Qualcomm Innovation Fellowship 2025
+    url: https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america
 - date: '2025-01-01'
-  title: Socio-Environmental Knowledge (SEEK) Commons Fellowship 2025 Finalist
+  title: Selected as a finalist for the Socio-Environmental Knowledge (SEEK) Commons Fellowship 2025!
+  links:
+  - text: Socio-Environmental Knowledge (SEEK) Commons Fellowship 2025
+    url: https://seekcommons.org/fellowship-application.html
 - date: '2024-03-01'
-  title: Travel Grant to attend ASPLOS 2024
-- date: '2020-02-01'
-  title: Travel Grant to attend ECIR 2020
-- date: '2017-01-01'
-  title: Dean’s List for Academic Excellence, IIT Gandhinagar
-  end_date: '2019-12-01'
-- date: '2019-09-01'
-  title: Travel Grant to attend CoDS-COMAD 2020
-- date: '2019-04-01'
-  title: Durga Devi Sultania Scholarship, IIT Gandhinagar
-- date: '2019-01-01'
-  title: Best Paper Award (one of three selected from 300+ submissions), ICSTEM 2019
-- date: '2019-01-01'
-  title: Gujarat Government Award for Social Good through CS Research, ICSTEM 2019
-- date: '2017-04-01'
-  title: Explorer’s Fellowship, IIT Gandhinagar
-- date: '2014-08-01'
-  title: Bachelor of Arts degree in Indian Classical Music
+  title: Received a travel grant to attend ASPLOS 2024!
+  links:
+  - text: ASPLOS 2024
+    url: https://www.asplos-conference.org/asplos2024/index.html

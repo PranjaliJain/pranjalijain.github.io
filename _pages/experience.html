@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Experience"
+permalink: /experience/
+---
+
+<div class="resume-timeline experience-timeline">
+{% for role in site.data.experience %}
+<article class="resume-entry">
+  <div class="resume-entry__heading">
+    <h2>{{ role.title }}</h2>
+  </div>
+  <p class="resume-entry__meta"><strong>{{ role.organization }}</strong>, {{ role.location }}</p>
+  <p class="resume-entry__period">{{ role.period }}</p>
+</article>
+{% endfor %}
+</div>

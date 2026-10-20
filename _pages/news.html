@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+---
+
+<ol class="news-list">
+{% for item in site.data.news %}
+  <li class="news-item">
+    <span class="news-date"><time datetime="{{ item.date | date: '%Y-%m' }}">{{ item.date | date: '%B %Y' }}</time>{% if item.end_date %} – <time datetime="{{ item.end_date | date: '%Y-%m' }}">{{ item.end_date | date: '%B %Y' }}</time>{% endif %}</span>
+    {% assign news_text = item.title | escape %}
+    {% for link in item.links %}
+      {% assign link_text = link.text | escape %}
+      {% capture news_link %}<a class="news-link" href="{{ link.url | escape }}"><strong><u>{{ link_text }}</u></strong></a>{% endcapture %}
+      {% assign news_text = news_text | replace: link_text, news_link %}
+    {% endfor %}
+    <p>{{ news_text }}</p>
+  </li>
+{% endfor %}
+</ol>

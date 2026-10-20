@@ -6,6 +6,8 @@
   - ACM SIGEnergy Energy Informatics Review
   - Workshop on Sustainable Computer Systems (HotCarbon)
   paper_url: https://hotcarbon.org/assets/2026/paper-28.pdf
+  venue_display: ACM SIGEnergy Energy Informatics Review · 2026
+  presentation: Presented at HotCarbon 2026.
 - title: Tracing the Computer System Supply Chain
   authors: Pranjali Jain, Pranav Gunhal, Jonathan Balkind, Timothy Sherwood.
   venue: Workshop on Ethical Systems and Architecture Design at Architectural Support for Programming Languages
@@ -13,6 +15,7 @@
   venue_highlights:
   - Workshop on Ethical Systems and Architecture Design
   paper_url: https://hotethics.github.io/papers/2026-papers/tracing-the-computer-system-supply-chain.pdf
+  venue_display: Workshop on Ethical Systems and Architecture Design @ ASPLOS · 2026
 - title: Metallic toxicity as a consideration for future computing paradigms
   authors: Pranjali Jain, Alexander Bologna, Dingsheng Li, Timothy Sherwood.
   venue: npj Unconventional Computing, 2026. Presented at the International Conference on Rebooting Computing (ICRC),
@@ -21,6 +24,8 @@
   - npj Unconventional Computing
   - International Conference on Rebooting Computing (ICRC)
   paper_url: https://www.nature.com/articles/s44335-026-00078-0
+  venue_display: npj Unconventional Computing · 2026
+  presentation: Presented at ICRC 2025.
 - title: Learning Architectural Cache Simulator Behaviour
   authors: Pranjali Jain, Meiru Han, Zhizhou Zhang, Brandon Lee, Jonathan Balkind.
   venue: IEEE International Symposium on Workload Characterization (IISWC), 2025.
@@ -28,12 +33,14 @@
   - IEEE International Symposium on Workload Characterization (IISWC)
   note: Best Paper Nominee; Distinguished Artifact Award.
   paper_url: https://drive.google.com/file/d/1QMMdbChb3J7OjXj-hKIi7d06znrXXkKN/view?usp=drive_link
+  venue_display: IEEE International Symposium on Workload Characterization (IISWC) · 2025
 - title: Leveraging Deep Learning for Architectural Cache Simulation
   authors: Pranjali Jain, Meiru Han, Zhizhou Zhang, Brandon Lee, Jonathan Balkind.
   venue: Workshop on Modeling and Simulation of Systems and Applications (ModSim), 2025.
   venue_highlights:
   - Workshop on Modeling and Simulation of Systems and Applications (ModSim)
   paper_url: https://drive.google.com/file/d/1hdgkibxR6hqJ99fAwWKMMEK99KNEyGCO/view?usp=drive_link
+  venue_display: Workshop on Modeling and Simulation of Systems and Applications (ModSim) · 2025
 - title: Empowering E-Waste Recycling with Intelligent PCB Component Detection
   authors: Pranjali Jain, Madison Long, Claire Pemberton*, Ivan Hernandez*, Mariana Rosillo*, Samantha West*, Jonathan
     Balkind, Timothy Sherwood.
@@ -41,6 +48,7 @@
   venue_highlights:
   - ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)
   paper_url: https://doi.org/10.1145/3715335.3736323
+  venue_display: ACM Conference on Computing and Sustainable Societies (COMPASS) · 2025
 - title: Electronic Waste footprint of Computer Systems
   authors: Pranjali Jain, Claire Pemberton*, Ivan Hernandez*, Mariana Rosillo*, Samantha West*, Jonathan Balkind,
     Timothy Sherwood.
@@ -49,6 +57,7 @@
   venue_highlights:
   - Workshop on Hot Topics in Ethical Computer Systems
   paper_url: https://hotethics.github.io/papers/Jain_Hotethics24.pdf
+  venue_display: Workshop on Hot Topics in Ethical Computer Systems @ ASPLOS · 2024
 - title: Toxicity versus Carbon Footprint of Computer Systems
   authors: Pranjali Jain, Jonathan Balkind, Timothy Sherwood.
   venue: Young Architect Workshop at Architectural Support for Programming Languages and Operating Systems (ASPLOS),
@@ -56,18 +65,21 @@
   venue_highlights:
   - Young Architect Workshop
   paper_url: https://drive.google.com/file/d/1MXN5EJXjDiAwBKf8jdwzU_yOutUzuBHQ/view?usp=drive_link
+  venue_display: Young Architect Workshop @ ASPLOS · 2024
 - title: 'HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy'
   authors: Sarabjeet Singh, Neelam Surana, Pranjali Jain, Joycee Mekie, Manu Awasthi.
   venue: ACM Transactions on Architecture and Code Optimization (TACO), October 2021.
   venue_highlights:
   - ACM Transactions on Architecture and Code Optimization (TACO)
   paper_url: https://arxiv.org/pdf/2110.01208.pdf
+  venue_display: ACM Transactions on Architecture and Code Optimization (TACO) · 2021
 - title: 'PlantDoc: Dataset for Visual Plant Disease Detection'
   authors: Davinder Singh*, Naman Jain*, Pranjali Jain*, Pratik Kayal*, Sudhakar Kumawat, Nipun Batra.
   venue: ACM India Joint International Conference on Data Science & Management of Data (CoDS-COMAD), 2020.
   venue_highlights:
   - ACM India Joint International Conference on Data Science & Management of Data (CoDS-COMAD)
   paper_url: https://arxiv.org/pdf/1911.10317.pdf
+  venue_display: ACM CoDS-COMAD · 2020
 - title: 'NLPExplorer: Exploring the Universe of NLP Papers'
   authors: Monarch Parmar*, Naman Jain*, Pranjali Jain*, Jayakrishna Sahit*, Soham Pachpande*, Shruti Singh, Mayank
     Singh.
@@ -75,6 +87,7 @@
   venue_highlights:
   - European Conference on Information Retrieval (ECIR)
   paper_url: https://arxiv.org/pdf/1910.07351.pdf
+  venue_display: European Conference on Information Retrieval (ECIR) · 2020
 - title: 'AgriBot: Agriculture-Specific Question Answer System'
   authors: Naman Jain*, Pranjali Jain*, Pratik Kayal*, Jayakrishna Sahit*, Soham Pachpande*, Jayesh Choudhary, Mayank
     Singh.
@@ -82,3 +95,4 @@
   venue_highlights:
   - 14th International Conference on Science, Technology, Engineering and Management (ICSTEM)
   paper_url: https://drive.google.com/file/d/1DNSXWfhEZ6VGRN9v1-FXEq-Lqy__Flpq/view?usp=drive_link
+  venue_display: International Conference on Science, Technology, Engineering and Management (ICSTEM) · 2019
