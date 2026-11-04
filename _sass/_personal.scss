@@ -39,6 +39,7 @@ strong { font-weight: 650; }
 .profile-links a { display: inline-flex; align-items: center; }
 .site-icon { display: inline-block; width: 1em; height: 1em; margin-right: 0.4em; fill: currentColor; flex-shrink: 0; }
 .about-copy { max-width: 780px; }
+.about-copy strong { color: $purple; font-weight: 700; }
 .about-copy h2 { color: $purple-dark; margin-top: 2.2rem; }
 .publications-page h1 { font-size: calc(2.15rem + 2pt); }
 .publications-page .page-intro { font-size: calc(1rem + 2pt); }
@@ -52,7 +53,10 @@ strong { font-weight: 650; }
 .publication-venue { color: $purple-light; font-size: calc(0.9rem + 2pt); }
 .presentation-label { color: $ink; }
 .publication-note { color: $purple; font-size: calc(0.85rem + 2pt); font-weight: 600; }
-.education-entry { padding: 0 0 1.5rem; margin-bottom: 1.5rem; border-bottom: 1px solid $line; }
+.education-entry { display: grid; grid-template-columns: 150px minmax(0, 1fr); align-items: center; gap: 1.5rem; padding: 0 0 1.5rem; margin-bottom: 1.5rem; border-bottom: 1px solid $line; }
+.education-entry__logo-wrap { display: flex; align-items: center; justify-content: center; }
+.education-entry__logo { display: block; width: 90px; height: 90px; object-fit: contain; }
+.education-entry__logo--wordmark { width: 150px; height: auto; }
 .education-entry:last-child { border: 0; }
 .education-entry p { margin-bottom: 0.3rem; }
 .education-entry__period { color: $purple; font-size: 1rem; }
@@ -117,4 +121,11 @@ strong { font-weight: 650; }
 .course-term { color: $purple; }
 @media (max-width: 480px) {
   .resume-entry__courses li { grid-template-columns: minmax(0, 1fr); gap: 0; margin-bottom: 0.8rem; }
+}
+
+@media (max-width: 600px) {
+  .education-entry { grid-template-columns: 85px minmax(0, 1fr); align-items: start; gap: 1rem; }
+  .education-entry__logo-wrap { padding-top: 0.4rem; }
+  .education-entry__logo { width: 72px; height: 72px; }
+  .education-entry__logo--wordmark { width: 85px; height: auto; }
 }

@@ -9,8 +9,8 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. student in the Computer Science department at the University of California Santa Barbara (UCSB), advised by [Prof. Tim Sherwood](https://www.arch.cs.ucsb.edu/prof-sherwood) and [Prof. Jonathan Balkind](https://jbalkind.github.io/).
+I am a **Ph.D.** student in the Computer Science department at the **University of California Santa Barbara (UCSB)**, advised by [Prof. Tim Sherwood](https://www.arch.cs.ucsb.edu/prof-sherwood) and [Prof. Jonathan Balkind](https://jbalkind.github.io/).
 
-My interdisciplinary research spans computer architecture, machine learning, sustainable systems, and responsible computing. I study the environmental impacts of computing systems and explore how hardware design decisions can make computing more sustainable.
+My interdisciplinary research spans computer architecture, AI for system design, and sustainable computing.
 
-I earned my B.Tech. with Honors in Computer Science and Engineering from the Indian Institute of Technology (IIT) Gandhinagar.
+Before this, I earned my **B.Tech.** with Honors in Computer Science and Engineering from the **Indian Institute of Technology (IIT) Gandhinagar**, working with [Prof. Joycee Mekie](https://iitgn.ac.in/faculty/ee/fac-joycee).
